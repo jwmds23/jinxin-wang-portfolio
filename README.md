@@ -3,6 +3,10 @@
 Welcome to my professional portfolio! I am a Data Analyst/Scientist with a Master’s in Data Science and 3+ years of experience in data management and analysis. Below, you'll find links to my projects and contact information.
 
 ## Featured Projects
+**Biosensor Waveform Characterization and Window Optimization**  
+   - Optimized biosensor waveform data for Siemens Healthineers' epoc® Blood Analysis System by characterizing waveform flatness, applying functional data analysis, and refining window limits to minimize slope differences between two system generations.
+      - [View Repository](https://github.com/dejaytang/Capstone_Siemens.git)
+
 **Song Popularity Analysis Dashboard**  
    - Developing an interaction dashboard for user to spot trends, understand the musical landscape, and make data-driven decisions in the music industry.
       - [View Repository](https://github.com/jwmds23/SongPopularity.git)
